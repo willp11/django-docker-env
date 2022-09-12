@@ -1,0 +1,6 @@
+.env.dev
+.env.prod
+.env.prod.db
+env
+app/db.sqlite3
+app/media*
